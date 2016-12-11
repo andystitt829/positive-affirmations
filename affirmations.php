@@ -1,6 +1,6 @@
 <?php
 /**
- * @package Positive_Affirations
+ * @package Positive_Affirmations
  * @version 1.0
  */
 /*
